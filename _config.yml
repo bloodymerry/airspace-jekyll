@@ -14,9 +14,9 @@ keep_files:
 
 
 # Site settings
-title: Airspace
-subtitle: "A free HTML5 agency template"
-url: "http://luminousrubyist.github.io" # the base hostname & protocol for your site
+title: BloodyMerry's Portfolio
+subtitle: "BloodyMerry의 포트폴리오"
+url: "http://bloodymerry.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 
 # baseurl: "/airspace-jekyll" - 기존코드
