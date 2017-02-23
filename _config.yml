@@ -14,7 +14,6 @@ keep_files:
 
 
 # Site settings
-name : "DD"
 title: "BloodyMerry's Portfolio"
 subtitle: "BloodyMerry"
 url: "http://bloodymerry.github.io" # the base hostname & protocol for your site
