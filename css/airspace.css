@@ -234,7 +234,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
-  background: url("../img/devcover3-1.jpg");
+  background: url("../img/devcover6.png");
   background-position: 50% 94px;
   width: 100%;
   display: block;
@@ -261,7 +261,8 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 30px;
 }
 #feature p {
-  color: #8d8f92;
+  /*color: #8d8f92;*/
+  color: #fff;
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
