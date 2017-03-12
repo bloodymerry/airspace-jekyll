@@ -243,8 +243,7 @@ font header .navbar-default .navbar-nav li a:hover {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
-	/*컬러변경*/
-  background-color: #000000;
+  background-color: #fff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -255,8 +254,8 @@ font header .navbar-default .navbar-nav li a:hover {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   padding: 100px 0;
-	/*투명도 추가0*/
-  opacity: 0.5;
+	/*그라디언트 추가*/
+  background: linear-gradient(to left, #8b86a3, #322e40); 
 }
 #feature h2 {
   font-size: 28px;
